@@ -21,7 +21,7 @@ public class ArrayListExample {
 		System.out.println(a.indexOf("Sadguna"));
 		System.out.println(a.isEmpty());
 		System.out.println(a.size());
-
+		System.out.println(a.size());
 	}
 
 }
