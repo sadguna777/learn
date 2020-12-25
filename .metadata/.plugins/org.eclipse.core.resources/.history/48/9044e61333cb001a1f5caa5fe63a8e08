@@ -1,0 +1,15 @@
+
+public class ExeptionDem0 {
+	int i=7;
+	int c=0;
+	
+	int k= i/c;
+	
+	
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}
+

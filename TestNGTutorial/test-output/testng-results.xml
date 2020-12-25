@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="8" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-06T14:34:35 IST" name="LoanDepartment" finished-at="2020-09-06T14:34:35 IST" duration-ms="156">
+    <groups>
+    </groups>
+    <test started-at="2020-09-06T14:34:35 IST" name="PersonalLoan" finished-at="2020-09-06T14:34:35 IST" duration-ms="72">
+      <class name="day4">
+        <test-method signature="MobileLoginApihomeLoon()[pri:0, instance:day4@1df82230]" started-at="2020-09-06T14:34:35 IST" name="MobileLoginApihomeLoon" finished-at="2020-09-06T14:34:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginApihomeLoon -->
+        <test-method signature="MobileWebLogichomeLoon()[pri:0, instance:day4@1df82230]" started-at="2020-09-06T14:34:35 IST" name="MobileWebLogichomeLoon" finished-at="2020-09-06T14:34:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileWebLogichomeLoon -->
+        <test-method signature="MobileWebLoginhomeLoon()[pri:0, instance:day4@1df82230]" started-at="2020-09-06T14:34:35 IST" name="MobileWebLoginhomeLoon" finished-at="2020-09-06T14:34:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileWebLoginhomeLoon -->
+      </class> <!-- day4 -->
+      <class name="day2">
+        <test-method is-config="true" signature="prerequiste()[pri:0, instance:day2@402e37bc]" started-at="2020-09-06T14:34:35 IST" name="prerequiste" finished-at="2020-09-06T14:34:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequiste -->
+        <test-method signature="ploan()[pri:0, instance:day2@402e37bc]" started-at="2020-09-06T14:34:35 IST" name="ploan" finished-at="2020-09-06T14:34:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- day2 -->
+      <class name="day1">
+        <test-method signature="Demo()[pri:0, instance:day1@79ad8b2f]" started-at="2020-09-06T14:34:35 IST" name="Demo" finished-at="2020-09-06T14:34:35 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method is-config="true" signature="lastExecution()[pri:0, instance:day1@79ad8b2f]" started-at="2020-09-06T14:34:35 IST" name="lastExecution" finished-at="2020-09-06T14:34:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastExecution -->
+      </class> <!-- day1 -->
+    </test> <!-- PersonalLoan -->
+    <test started-at="2020-09-06T14:34:35 IST" name="carLoan" finished-at="2020-09-06T14:34:35 IST" duration-ms="7">
+      <class name="day3">
+        <test-method is-config="true" signature="Bfsuite()[pri:0, instance:day3@147ed70f]" started-at="2020-09-06T14:34:35 IST" name="Bfsuite" finished-at="2020-09-06T14:34:35 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bfsuite -->
+        <test-method signature="WebLogincarLoon()[pri:0, instance:day3@147ed70f]" started-at="2020-09-06T14:34:35 IST" name="WebLogincarLoon" finished-at="2020-09-06T14:34:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLogincarLoon -->
+      </class> <!-- day3 -->
+    </test> <!-- carLoan -->
+  </suite> <!-- LoanDepartment -->
+</testng-results>

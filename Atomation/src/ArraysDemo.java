@@ -1,0 +1,18 @@
+
+public class ArraysDemo {
+	public static void main(String args[]) {
+		int a[]= {1,4,6,7,8};
+		int sum=0;
+		for(int x:a) {
+			System.out.println(x);
+			sum=sum+x;
+			
+		}
+		System.out.println(sum);
+		
+		
+		
+			
+	}
+
+}
